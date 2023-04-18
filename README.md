@@ -5,7 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wellyson-Lopes&bg_color=3fd2a5&color=007aef&line=eae5ed&point=ce3536&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wellyson-Lopes&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+
 
 
 
